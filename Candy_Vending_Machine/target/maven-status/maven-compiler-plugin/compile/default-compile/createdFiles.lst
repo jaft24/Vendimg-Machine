@@ -1,0 +1,10 @@
+com\mycompany\candy_vending_machine\MainProgram.class
+com\mycompany\candy_vending_machine\TheForce.class
+com\mycompany\candy_vending_machine\IVendingMachine.class
+com\mycompany\candy_vending_machine\SodaVendMachine.class
+com\mycompany\candy_vending_machine\Soda.class
+com\mycompany\candy_vending_machine\CandyVendMachine.class
+com\mycompany\candy_vending_machine\VendMachineInterface.class
+com\mycompany\candy_vending_machine\StarWarsCharacters.class
+com\mycompany\candy_vending_machine\EverythingVendMachine.class
+com\mycompany\candy_vending_machine\Candy.class
